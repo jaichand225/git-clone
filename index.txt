@@ -1,3 +1,2 @@
-hello jaichand web dev
-the code updated from main
+the code update from github main
 
